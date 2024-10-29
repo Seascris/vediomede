@@ -20,4 +20,4 @@ paso a paso de ejecución
     del usuario se debe tener el nombre, documento, corre, telefono, direccion,salario, prefecion
     de los creditos se necesita tener un tipo, un monto, una fecha limite y una cantidad de cuotas//
 
-    
+BEM --> Bloque-Elemento-modificador (CSS)
