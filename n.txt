@@ -1,0 +1,23 @@
+proyecto/
+    controllers/
+    models/
+    views/
+        pages/
+        public/
+            css/
+            img/
+            js/
+    index.html
+    README.MD
+
+la documentacion del readme (minimo):
+introduccion al proyecto
+tecnologias o herramientas de desarrollo
+paso a paso de ejecución
+
+  //Se desea crear una aplicacion que permita a un usuario simular un credito,
+    para ello el usuario se debe de registrar e inicar sesión
+    del usuario se debe tener el nombre, documento, corre, telefono, direccion,salario, prefecion
+    de los creditos se necesita tener un tipo, un monto, una fecha limite y una cantidad de cuotas//
+
+    
